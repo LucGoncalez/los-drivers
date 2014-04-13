@@ -1,4 +1,4 @@
-# LOSDrivers #
+# LOS-Drivers #
 **Repositório principal de drivers do Projeto LOS**
 
 Este repositório será usado para a implementação dos drivers de dispositivos do Projeto LOS.
